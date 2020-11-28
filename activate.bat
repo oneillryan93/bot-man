@@ -1,0 +1,1 @@
+S:\Repos\insider-alert\venv\Scripts\activate.bat
